@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "full": {
+    "location_ota": "https://github.com/diwangs/PixeneOS-caiman/releases/download/2026011300/caiman-2026011300-magisk-v30.6-6f9730b.zip",
+    "location_csig": "https://github.com/diwangs/PixeneOS-caiman/releases/download/2026011300/caiman-2026011300-magisk-v30.6-6f9730b.zip.csig"
+  }
+}
