@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/diwangs/PixeneOS-caiman/releases/download/2026012100/caiman-2026012100-rootless-90889af.zip",
-    "location_csig": "https://github.com/diwangs/PixeneOS-caiman/releases/download/2026012100/caiman-2026012100-rootless-90889af.zip.csig"
+    "location_ota": "https://github.com/diwangs/PixeneOS-caiman/releases/download/2026012800/caiman-2026012800-rootless-90889af.zip",
+    "location_csig": "https://github.com/diwangs/PixeneOS-caiman/releases/download/2026012800/caiman-2026012800-rootless-90889af.zip.csig"
   }
 }
